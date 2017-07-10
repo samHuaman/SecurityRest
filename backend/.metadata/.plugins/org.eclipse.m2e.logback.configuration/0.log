@@ -21,3 +21,41 @@
 2017-07-10 12:54:25,385 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-07-10 12:54:25,388 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-07-10 12:54:25,389 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Importantes\Repositories\security_rest\SecurityRest\backend\RestService\src\test\resources
+2017-07-10 14:38:53,568 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-10 14:38:53,600 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-10 14:38:53,600 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-10 14:38:53,600 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-10 14:38:53,600 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Importantes\Repositories\security_rest\SecurityRest\backend\RestService\src\test\resources
+2017-07-10 14:39:23,304 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-10 14:39:23,304 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-10 14:39:23,304 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-10 14:39:23,304 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-10 14:39:23,304 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Importantes\Repositories\security_rest\SecurityRest\backend\RestService\src\test\resources
+2017-07-10 14:40:55,556 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-10 14:40:55,556 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-10 14:40:55,556 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-10 14:40:55,556 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-10 14:40:55,556 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Importantes\Repositories\security_rest\SecurityRest\backend\RestService\src\test\resources
+2017-07-10 14:42:54,982 [Worker-81] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pe.openebusiness:eBank:0.0.1-SNAPSHOT @ E:\Importantes\Repositories\security_rest\SecurityRest\backend\eBank\pom.xml.
+2017-07-10 14:43:03,755 [Worker-81] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eBank/src/main/java
+2017-07-10 14:43:03,755 [Worker-81] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eBank/src/main/resources
+2017-07-10 14:43:03,770 [Worker-81] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eBank/src/main/resources
+2017-07-10 14:43:03,793 [Worker-81] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eBank/src/test/java
+2017-07-10 14:43:05,462 [Worker-81] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 17 sec
+2017-07-10 14:43:05,462 [Worker-81] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-07-10 14:43:06,087 [Worker-81] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pe.openebusiness:eBank:0.0.1-SNAPSHOT @ E:\Importantes\Repositories\security_rest\SecurityRest\backend\eBank\pom.xml.
+2017-07-10 14:43:07,041 [Worker-81] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eBank/src/main/java
+2017-07-10 14:43:07,041 [Worker-81] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eBank/src/main/resources
+2017-07-10 14:43:07,057 [Worker-81] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eBank/src/main/resources
+2017-07-10 14:43:07,057 [Worker-81] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eBank/src/test/java
+2017-07-10 14:43:07,273 [Worker-81] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-07-10 14:43:11,869 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-10 14:43:11,869 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-10 14:43:11,884 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-10 14:43:11,884 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-10 14:43:11,884 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Importantes\Repositories\security_rest\SecurityRest\backend\eBank\src\test\resources
+2017-07-10 14:43:23,399 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-10 14:43:23,399 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-10 14:43:23,399 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-10 14:43:23,399 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-10 14:43:23,399 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Importantes\Repositories\security_rest\SecurityRest\backend\eBank\src\test\resources
