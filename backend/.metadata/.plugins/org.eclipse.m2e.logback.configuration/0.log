@@ -1,0 +1,23 @@
+2017-07-10 12:53:08,783 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.rest:RestService:0.0.1-SNAPSHOT @ E:\Importantes\Repositories\security_rest\SecurityRest\backend\RestService\pom.xml.
+2017-07-10 12:53:18,647 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestService/src/main/java
+2017-07-10 12:53:18,650 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RestService/src/main/resources
+2017-07-10 12:53:18,683 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RestService/src/main/resources
+2017-07-10 12:53:18,710 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestService/src/test/java
+2017-07-10 12:53:23,543 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 25 sec
+2017-07-10 12:53:23,546 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-07-10 12:53:24,413 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.rest:RestService:0.0.1-SNAPSHOT @ E:\Importantes\Repositories\security_rest\SecurityRest\backend\RestService\pom.xml.
+2017-07-10 12:53:26,076 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestService/src/main/java
+2017-07-10 12:53:26,076 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RestService/src/main/resources
+2017-07-10 12:53:26,077 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RestService/src/main/resources
+2017-07-10 12:53:26,078 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestService/src/test/java
+2017-07-10 12:53:26,704 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2017-07-10 12:53:34,054 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-10 12:53:34,082 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-10 12:53:34,127 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-10 12:53:34,130 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-10 12:53:34,130 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Importantes\Repositories\security_rest\SecurityRest\backend\RestService\src\test\resources
+2017-07-10 12:54:25,302 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-10 12:54:25,383 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-10 12:54:25,385 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-10 12:54:25,388 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-10 12:54:25,389 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Importantes\Repositories\security_rest\SecurityRest\backend\RestService\src\test\resources
